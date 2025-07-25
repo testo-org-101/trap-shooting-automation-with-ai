@@ -1,0 +1,35 @@
+{
+  "id": "688417acfb8d75121851be80",
+  "title": "Trap Shooting Automation with AI",
+  "description": "This course was specially designed to instruct learners on how to leverage artificial intelligence concepts, tools and programs to automate trap shooting.",
+  "learningObjectives": [
+    "Understand basic AI principles.",
+    "Understand the theory of trap shooting",
+    "Design AI programs for trap shooting.",
+    "Develop and execute trap shooting automation."
+  ],
+  "finalProjectDetails": {
+    "overview": "Design, develop and execute a fully-functional AI program for trap shooting automation.",
+    "planningResources": [
+      "AI design template",
+      "Code repository",
+      "Demo environment",
+      "Report format guide"
+    ],
+    "submissionInstructions": "Submit your AI design documentation, code files, recorded demo and written report through the course learning portal.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/testo-org-101/trap-shooting-automation-with-ai",
+  "createdAt": "2025-07-25T23:47:56.358Z",
+  "updatedAt": "2025-07-25T23:51:42.796Z",
+  "lessonCount": 5
+}
